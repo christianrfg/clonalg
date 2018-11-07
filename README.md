@@ -1,6 +1,8 @@
 # CLONALG: The CLONal selection ALGorithm
 
-TODO
+In artificial immune systems, clonal selection algorithms are a class of algorithms inspired by the clonal selection theory of acquired immunity that explains how B and T lymphocytes improve their response to antigens over time called affinity maturation.
+
+This project show how to implement the traditional CLONALG using Python3. The example of execution its shown in the jupyter notebook inside the project.
 
 ## Getting Started
 
@@ -30,12 +32,12 @@ python3.x -m pip install numpy
 
 ## Jupyter Notebooks
 
-[CLONALG - Implementation and Execution]() -  Notebook with the description and execution of the CSA.
+[CLONALG - Implementation and Execution](https://github.com/christianrfg/clonalg/blob/master/CLONALG%20-%20Implementation%20and%20Execution.ipynb) -  Notebook with the description and execution of the CSA.
 
 
-<!-- ## Contributing
+## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. -->
+Please read [CONTRIBUTING.md](https://github.com/christianrfg/clonalg/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
@@ -49,5 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [Wikipedia](https://en.wikipedia.org/wiki/Particle_swarm_optimization#Parameter_selection)
+* [CleverAlgorithms](http://www.cleveralgorithms.com/nature-inspired/immune/clonal_selection_algorithm.html)
+* [Wikipedia](https://en.wikipedia.org/wiki/Clonal_selection_algorithm)
 
