@@ -1,4 +1,4 @@
-# Clonal Selection Algorithm (CSA)
+# CLONALG: The CLONal selection ALGorithm
 
 TODO
 
@@ -30,7 +30,7 @@ python3.x -m pip install numpy
 
 ## Jupyter Notebooks
 
-[Genetic Algorithm - CSA](https://github.com/christianrfg/ga_pso/blob/master/Genetic%20Algorithm%20-%20Particle%20Swarm%20Optimization%20.ipynb) -  Notebook with the description and execution of the CSA.
+[CLONALG - Implementation and Execution]() -  Notebook with the description and execution of the CSA.
 
 
 <!-- ## Contributing
